@@ -1,0 +1,63 @@
+body{ 
+background-image: url(../img/fons1.gif),url(../img/fons.jpg);
+ background-repeat: repeat;
+background-position:no-repeat ;
+background-attachment: fixed;
+}
+}
+body{ 
+ground-image: url(../img/fons1.gif);
+}
+body {
+    color: azure;
+}
+#main{ 
+background-color: azure;
+width:70%;
+height:100%;
+position: absolute;
+top: 0px;
+left: 15%;
+}
+ol {
+list-style: none; 
+counter-reset: li; 
+}
+li:before {
+counter-increment: li; 
+content: counters(li,".") ". "; 
+}
+#menu1 a{
+    color: grey;https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Fsalaspils1vsk&psig=AOvVaw180EhJq8ZYmEnRD9DMbzRK&ust=1608147000631000&source=images&cd=vfe&ved=2ahUKEwifh4PH3NDtAhVDxSoKHbs9B8wQr4kDegUIARCjAQ
+    text-decoration: none;
+        padding-right: 50px;
+    padding-left: 10px;
+    position: relative;
+    top: 5px;
+    left: 10px;
+    h1  {
+        text-transform: uppercase;
+        margin-top: 150px; 
+        font-size: 50px;
+        <meta charset="UTF-8">
+    }
+.AAA{
+color: azure;
+}
+
+     
+        
+}
+#menu img{
+    width: 100%;
+    height: 300px;
+}
+#menu{
+color: azure;
+    width: 100%
+    height: 30px;
+}
+
+}
+<style>
+body{
